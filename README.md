@@ -28,7 +28,7 @@ Comparto el trabajo de recopilación bajo una licencia [CC by-sa 4.0](https://cr
 5. Crea un [Pull Request][1]
 
 [1]: http://github.com/asosab/open_data/pulls
-[ancJson]: /
-[ancsql]: /
-[ancBack]: /
+[ancJson]: https://github.com/asosab/open_data/raw/master/anc17/anc_170803.json
+[ancsql]: https://github.com/asosab/open_data/raw/master/anc17/anc_170803.sql
+[ancBack]: https://github.com/asosab/open_data/raw/master/anc17/anc_170803.backup
 [ancFuente]: http://constituyente2017.cne.gob.ve/resultados_2017Final/
