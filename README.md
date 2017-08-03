@@ -9,13 +9,13 @@ Candidatos a la Asamblea Nacional Constituyente, Venezuela 2017 | [back postgres
 Detalles sobre los datos
 -----------
 ### ANC 2017
-- El campo id es un campo agregado para control, cuando se toman los datos tal cual están en el origen existe la posibilidad de encontrar datos repetidos
-- El campo fecha_modificacion es un campo agregado para controlar la fecha y hora en que el registro fue indexado en mi base de datos, siempre muestra la fecha de la última toma del dato desde su fuente
+- El campo id es un campo agregado para control, cuando se toman los datos tal cual están en el origen existe la posibilidad de encontrar datos repetidos.
+- El campo fecha_modificacion es un campo agregado para controlar la fecha y hora en que el registro fue indexado en mi base de datos, siempre muestra la fecha de la última toma del dato desde su fuente.
 
 
 LICENCIA
 ------------
-Comparto el trabajo de recopilación bajo una licencia [CC by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Los propios datos son públicos y pueden encontrarse en sus sitios de publicación, mencionados donde corresponda
+Comparto el trabajo de recopilación bajo una licencia [CC by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Los propios datos son públicos, pertenecen a sus creadores y pueden encontrarse en sus sitios de publicación, mencionados donde corresponda.
 
 
 ¿Quieres ayudar agregando o limpiando datos? 
