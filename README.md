@@ -1,11 +1,17 @@
 # Lista de datos públicos
 > La siguiente es una lista de datos públicos, tomados tal cual aparecen en los sitios web señalados como fuente de datos y empaquetados para que cualquiera los pueda usar o analizar
 
-___
-Datos | Formatos | Fuente de datos
-Candidatos a la Asamblea Nacional Constituyente, Venezuela 2017 | [back postgresql][ancBack], [sql postgresql][ancsql], [json][ancJson] | [Fuente][ancFuente]
-___
 
+Datos | Formatos | Fuente de datos
+--- | --- | ---
+Candidatos a la Asamblea Nacional Constituyente, Venezuela 2017 | [back postgresql][ancBack], [sql postgresql][ancsql], [json][ancJson] | [Fuente][ancFuente]
+
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 Detalles sobre los datos
 -----------
