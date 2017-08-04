@@ -4,7 +4,7 @@
 
 Datos | Formatos | Fuente de datos
 --- | --- | ---
-Candidatos a la Asamblea Nacional Constituyente, Venezuela 2017 | [.back postgresql][ancBack], [.sql postgresql][ancsql], [.json][ancJson], [.scv][ancSCV] [original][oriJson] | [Fuente][ancFuente]
+Candidatos a la Asamblea Nacional Constituyente, Venezuela 2017 | [.back postgresql][ancBack], [.sql postgresql][ancsql], [.json][ancJson], [.scv][ancSCV], [original][oriJson] | [Fuente][ancFuente]
 
 Detalles sobre los datos
 -----------
