@@ -5,7 +5,7 @@
 Datos | Formatos | Fuente de datos
 --- | --- | ---
 Candidatos a la Asamblea Nacional Constituyente, Venezuela 2017 | [.back postgresql][ancBack], [.sql postgresql][ancsql], [.json][ancJson], [.csv][ancCSV], [original][oriJson] | [Fuente][ancFuente]
-Ubigeo basado en el ubigeo INE | [.tsv][ubigeoTsv], [.json][ubigeoJson] | [Fuente][ubigeoINE]
+Ubigeo INE | [.tsv][ubigeoTsv], [.json][ubigeoJson] | [Fuente][ubigeoINE]
 
 
 Detalles sobre los datos
